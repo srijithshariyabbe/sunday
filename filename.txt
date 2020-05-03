@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
-  printf("sample1");
+  printf("sreehi1");
   printf("sample2");
+  printf("updated version");
 }
