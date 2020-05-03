@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
 {
-  printf("sample");
+  printf("sample1");
+  printf("sample2");
 }
